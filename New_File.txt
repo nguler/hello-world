@@ -4,6 +4,6 @@ These edits are made in the master branch.
 
 Again changes in the master.
 
-More changes in local computer YYY.
+More changes in local computer XXX.
 
-YYY again.
+XXX Again.
